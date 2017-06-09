@@ -1,7 +1,7 @@
 package net.leejjon.gradle;
 
 public class LeejjonPluginExtension {
-	 private String message = "";
+	 private String message = "Default";
 
 	 public String getMessage () {
 		  return message;
