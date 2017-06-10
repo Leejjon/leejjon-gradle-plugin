@@ -48,7 +48,7 @@ import java.util.function.BiFunction;
 public class MoeSDK {
     private static final Logger LOG = Logging.getLogger(MoeSDK.class);
 
-    private static final String MOE_GRADLE_ARTIFACT_ID = "moe-gradle";
+    private static final String MOE_GRADLE_ARTIFACT_ID = "leejjon-gradle-plugin";
     private static final String MOE_SDK_CONFIGURATION_NAME = "moeMavenSDK";
     private static final String MOE_LOCAL_SDK_PROPERTY = "moe.sdk.localbuild";
     private static final String MOE_LOCAL_SDK_ENV = "MOE_SDK_LOCALBUILD";
